@@ -1,0 +1,174 @@
+body {
+  margin: 0;
+}
+
+  .container-fluid {
+    padding: 1.5% 6% 14% 6%;
+  }
+
+h1,h2,h3,h4 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+  /* NavBar */
+  .navbar {
+    padding: 0 0 4.5rem;
+
+  }
+
+  .nav-item {
+    padding: 0 18px;
+  }
+
+  .nav-link {
+    font-size: 1.2rem;
+  }
+/* Sections */
+
+.colored-section {
+  background-color: #2a8000;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+  color: #195905;
+}
+
+ /* Headings */
+
+ .brand-name {
+  font-family: 'Bowlby One SC', cursive;
+
+  font-size: 2.5rem;
+ }
+
+ .heading {
+   font-family: 'Open Sans', sans-serif;
+   font-weight: bold;
+   font-size: 3.5rem;
+   line-height: 1.2;
+   padding:50px 200px 0 0;
+ }
+
+ .heading-ftr {
+   font-weight: bold;
+ }
+
+ .heading-hoodies {
+    padding: 2% 6% 1% 6%;
+    font-weight: bold;
+    font-size: 3.5rem;
+ }
+
+.heading-entwurf {
+    padding: 3% 0 3% 0;
+}
+
+.entwerfen {
+  margin-top: 7%;
+}
+
+.subheading-hoodie {
+  padding-top: 4%;
+}
+
+ /* Images */
+  .image-border {
+  height: 650px;
+  padding: 5%;
+  }
+
+  .feature-icons {
+    height: 80px;
+  }
+
+  .hoodieshowcase {
+    height: 163px;
+  }
+
+  .hoodieshowcase2 {
+    height: 495px;
+  }
+
+/* Buttons */
+
+.button-style {
+  margin: 2%;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+/* Features  */
+
+#features {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+/* Bewertungen */
+#bewertungen {
+  text-align: center;
+}
+
+.bewertung-image {
+  padding: 3%;
+  border-radius: 100%;
+  height: 200px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+ .carousel-comments {
+   padding-top: 100px;
+
+   font-size: 3rem;
+ }
+
+ /* Hoodies */
+#hoodie {
+  padding-bottom: 300px;
+}
+ .hoodie-bsp {
+   padding: 1% 0 4% 7%;
+ }
+
+.square {
+  height: 170px;
+  width: 170px;
+  border-style: solid;
+  background-color: #ace1af;
+  margin-bottom: 15%;
+  position: relative;
+}
+
+
+/* Individualize */
+
+.square2 {
+  height: 550px;
+  width: 500px;
+  border-style: solid;
+  background-color: #ace1af;
+  margin: 2% 0 0 20%;
+  position: relative;
+}
+
+#individualize {
+  padding-bottom: 220px;
+}
+
+/* About Us */
+
+.text-aboutus {
+  padding: 0 40% 1% 6%;
+}
+
+.footer {
+  background-color: #93c572;
+}
