@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  overflow-x: hidden;
 }
 
   .container-fluid {
@@ -44,7 +45,7 @@ p {
  .brand-name {
   font-family: 'Bowlby One SC', cursive;
 
-  font-size: 2rem;
+  font-size: 1.5rem;
  }
 
  .heading {
